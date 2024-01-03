@@ -1,2 +1,6 @@
-# Mandate-Models-and-the-Inelastic-Market-Hypothesis
-Code repository for the paper "Mandate Models and the Inelastic Market Hypothesis"
+# README
+
+## Contact and citation
+Author and affiliation:
+Yueying Sun y.sun63@lse.ac.uk, London School of Economincs and Political Science
+
