@@ -10,4 +10,7 @@ Yueying Sun y.sun63@lse.ac.uk, London School of Economincs and Political Science
 3 January 2024
 
 ## Introduction
-The notebooks in this repository reproduces the results given in tha paper "Mandate Models and the Inelastic Market Hypothesis". The `data`
+The notebooks in this repository reproduce the results given in Section~6 and Section~7 of paper "Mandate Models and the Inelastic Market Hypothesis". The 
+
+
+`data`
