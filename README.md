@@ -9,7 +9,7 @@ Yueying Sun y.sun63@lse.ac.uk, London School of Economics and Political Science
 
 Suggested citation:
 
-J. Ruf and Y. Sun (2024), Mandate Models and the Inelastic Market Hypothesis. SSRN 4689067. Download at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4689067
+J. Ruf and Y. Sun (2024), Mandate Models and the Inelastic Market Hypothesis. SSRN 4689067. Available at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4689067.
 
 9 January 2024
 
