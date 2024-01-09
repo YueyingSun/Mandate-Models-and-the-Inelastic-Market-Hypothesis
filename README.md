@@ -5,9 +5,13 @@ Authors and affiliations:
 
 Johannes Ruf j.ruf@lse.ac.uk, www.maths.lse.ac.uk/Personal/jruf, London School of Economics and Political Science.
 
-Yueying Sun y.sun63@lse.ac.uk, London School of Economincs and Political Science
+Yueying Sun y.sun63@lse.ac.uk, London School of Economics and Political Science
 
-4 January 2024
+Suggested citation:
+
+J. Ruf and Y. Sun (2024), Mandate Models and the Inelastic Market Hypothesis. SSRN 4689067. Download at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4689067
+
+9 January 2024
 
 ## Introduction
 The notebooks in this repository reproduce the results of Sections 6 and  7 of the paper "Mandate Models and the Inelastic Market Hypothesis". 
